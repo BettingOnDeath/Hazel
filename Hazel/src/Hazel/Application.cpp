@@ -14,5 +14,7 @@ namespace Hazel
 	}
 
 	void Application::Run()
-	{}
+	{
+	
+	}
 }
